@@ -2,3 +2,4 @@
 1-listit: a script that prints the contents list of the current directory
 2-bring_me_home: file script to cd to home
 3-listfiles: file script to long list files
+100-lets_move:  moves all files beginning with an uppercase letter to the directory /tmp/u.
